@@ -1,7 +1,5 @@
 # Aplicación CRUD con Python, Flask y MongoDB
 
-Aplicación web de gestión de productos desarrollada con **Python**, el microframework **Flask** y persistencia NoSQL en **MongoDB Community Server** mediante **PyMongo**.
-
 ## Estructura del proyecto
 - `app.py`: Rutas del servidor web y operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en el puerto `4000`.
 - `database.py`: Configuración de conexión local hacia MongoDB (`mongodb://localhost:27017/`).
